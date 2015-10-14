@@ -1,0 +1,3 @@
+.stepHideLightLine .v-lightline{
+	stroke-opacity: 0 !important;
+}
