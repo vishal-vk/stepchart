@@ -3,7 +3,7 @@
 	xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Title">
 		<content>
-			<viz:VizFrame id="idStepChart" vizType="line"
+			<viz:VizFrame id="idStepChart" vizType="line" class="stepHideLightLine"
 				uiConfig="{applicationSet:'fiori'}" width="100%" height="100%">
 			</viz:VizFrame>
 		</content>
