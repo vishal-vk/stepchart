@@ -1,3 +1,4 @@
-.stepHideLightLine .v-lightline{
-	stroke-opacity: 0 !important;
+/* When legend is selected, hide the line plotted */
+.stepHideLightLine .v-lightLine{
+	stroke-opacity: 0;
 }
