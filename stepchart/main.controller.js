@@ -70,6 +70,8 @@ sap.ui.define([
 					dataLabel: {
 						visible: true
 					},
+					
+					//Step line renderer
 					lineRenderer: StepLineRender.createStepChart,
 				},
 				title: {
